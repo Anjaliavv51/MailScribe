@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE directories
+.vscode/
+.idea/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Token/credentials (do NOT commit)
+credentials.json
+token.json
+*.sqlite3
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Optional large models / caches
+.cache/
+.huggingface/
+models/
+
+# Zip / archives
+*.zip
