@@ -1,13 +1,7 @@
-<p align="center">
-  <!-- fixed-size wrapper crops the image; border-radius gives curved corners -->
-  <span style="display:inline-block; width:120px; height:120px; overflow:hidden; border-radius:16px;">
-    <img src="icon.png" alt="Project Icon" style="width:100%; height:100%; object-fit:cover; display:block;">
-  </span>
-</p>
 
-<p align="center">
-  <h2 align="center">📧 MailScribe</h2>
-</p>
+<h1 align="center">
+  <img src="icon.png" alt="Project Icon" width="25px" height="25px"> MailScribe
+</h1>
 MailScribe is an intelligent NLP-powered Gmail email summarizer and auto-responder.
 It connects to Gmail, extracts messages, generates summaries (extractive or transformer-based), and optionally sends automated, context-aware replies.
 Includes GUI, FastAPI backend, time-based targeting, and strong safety mechanisms.
